@@ -27,6 +27,7 @@ public class Main {
 		char[] arrayDeCaracteres = palavra.toCharArray();
 
 		String palavraInvertida = "";
+		
 
 		for (int i = arrayDeCaracteres.length - 1; i >= 0; i--) {
 
